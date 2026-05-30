@@ -1,4 +1,4 @@
-# Porosity Prediction from Seismic Attributes — ML Workflow with Uncertainty Quantification
+# Porosity Prediction from Seismic Attributes (ML Workflow with Uncertainty Quantification)
 
 A reproducible machine-learning workflow for predicting reservoir **porosity (PHIT)** from
 seismic attributes, with model comparison and **uncertainty quantification (UQ)**.
