@@ -1,0 +1,15 @@
+# Proprietary data — do NOT commit
+well_logs/
+*.LAS
+*.las
+*.segy
+*.sgy
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
