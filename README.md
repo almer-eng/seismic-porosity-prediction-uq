@@ -18,8 +18,8 @@ the thesis; only the data is synthetic.
 ## Methods
 - Feature correlation analysis and selection
 - Blind-well hold-out for spatial generalisation testing
-- XGBoost regression with `HalvingRandomSearchCV` hyperparameter tuning
-- Model comparison: XGBoost, CatBoost, Random Forest, Quantile Random Forest
+- XGBoost regression with `HalvingRandomSearchCV` hyperparameter tuning (You can choose your other hyperparameter tune types)
+- Model comparison: XGBoost, CatBoost, Random Forest, Quantile Random Forest (Based on my thesis)
 - Uncertainty quantification via bootstrap resampling (*Stochastic XGBoost*), 95% CI
 - Metrics: RMSE, R², Pearson correlation (PCC)
 
